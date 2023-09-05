@@ -1,16 +1,22 @@
-### Hi there 👋
+Hello 👋 My name is Vlad
+================================
 
-<!--
-**vSeiilaa/vSeiilaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring Python dev looking for his first job 🍜
+----------------------------------
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Armenia
+* 🖥️  See my portfolio at 
+* ✉️  You can contact me at [svlad@duck.com](mailto:svlad@duck.com) svlad@duck.com
+* 🧠  I'm learning Django web development framework 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.twitter.com/vlad_seiilaa" target="_blank" rel="noreferrer"><img
+src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-handle.png.twimg.1920.png"
+/></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.linkedin.com/in/vladislav-balkhanov-544405168/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/vlad_seiilaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/vseiilaa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
