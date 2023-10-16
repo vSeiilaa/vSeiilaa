@@ -1,7 +1,7 @@
 Hello 👋 My name is Vlad
 ================================
 
-An aspiring Python dev looking for his first job 🍜
+An aspiring Python dev. I build fun projects 🍜
 ----------------------------------
 
 * 🌍  I'm based in Armenia
