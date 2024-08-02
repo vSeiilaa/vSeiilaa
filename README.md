@@ -1,13 +1,10 @@
 Hello 👋 My name is Vlad
 ================================
 
-An aspiring Python dev. I build fun projects 🍜
+I'm building fun little tools!
 ----------------------------------
 
-* 🌍  I'm based in Armenia
-* 🖥️  See my portfolio at 
-* ✉️  You can contact me at [svlad@duck.com](mailto:svlad@duck.com) svlad@duck.com
-* 🧠  I'm learning Django web development framework 
+* ✉️  You can contact me at [svlad@duck.com](mailto:svlad@duck.com) svlad@duck.com 
 
 ### Socials
 
